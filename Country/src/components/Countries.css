@@ -1,0 +1,20 @@
+.main,
+.oneCountry {
+    display: flex;
+    justify-content: space-between;
+    
+}
+.oneCountry{
+    border: 5px solid snow;
+    width: 940px;
+    background-color: greenyellow;
+}
+
+.allCountry {
+    border: 5px solid snow;
+    padding: 10px;
+    width: 450px;
+    height: 620px;
+    overflow-y: scroll;
+    background-color: greenyellow;
+}
